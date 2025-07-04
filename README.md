@@ -362,7 +362,6 @@ Interested in:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer" />
 </div>
 
-<!-- Pacman Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </div>

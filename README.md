@@ -27,7 +27,7 @@
 
 ## 🧠 Student Profile & Learning Journey
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Digital Data Streams" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96bGtxYnZwb203YWY1eWN4Y2FlYTlsY2tpYmdzenZmZzdoZGQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" />
 
 ### 🎯 **About Me**
 

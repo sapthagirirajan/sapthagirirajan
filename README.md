@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  🤖 AI Enthusiast | Machine Learning | Python Developer | Web Development | UI/UX Designer | Turning Ideas into AI-Powered Solutions
+  🤖 AI Enthusiast | Machine Learning | Python Developer | Web Development |Full-Stack Developer | UI/UX Designer | Turning Ideas into AI-Powered Solutions
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 

@@ -163,15 +163,6 @@ Goals:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapthagirirajan&theme=radical" width="32%" />
 </div>
 
-<!-- Pacman Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 Projects & Innovation Portfolio
 
 <div align="center">

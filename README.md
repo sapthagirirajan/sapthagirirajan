@@ -141,33 +141,26 @@ Goals:
 ## 📊 GitHub Analytics & Performance Metrics
 
 <div align="center">
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://github-readme-stats.vercel.app/api?username=sapthagirirajan&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" width="49%" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://streak-stats.demolab.com?user=sapthagirirajan&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" alt="GitHub contribution streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sapthagirirajan&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=sapthagirirajan&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapthagirirajan&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" width="60%" />
 </div>
 
 <div align="center">
-  <h3>🧮 Most Used Programming Languages</h3>
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapthagirirajan&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" width="60%" alt="Most used programming languages" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthagirirajan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00FFFF" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthagirirajan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00FFFF" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapthagirirajan&theme=radical" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapthagirirajan&theme=radical" width="100%" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sapthagirirajan&theme=radical" width="32%" alt="Repositories by programming language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sapthagirirajan&theme=radical" width="32%" alt="Most committed programming language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapthagirirajan&theme=radical" width="32%" alt="GitHub statistics summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sapthagirirajan&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sapthagirirajan&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapthagirirajan&theme=radical" width="32%" />
 </div>
 
 ## 🚀 Projects & Innovation Portfolio
@@ -201,32 +194,56 @@ Goals:
 
 <div align="center">
 
-### 🎯 Currently Learning
+```yaml
+🎯 CURRENTLY LEARNING:
+  Artificial Intelligence:
+    - Deep Learning & Neural Networks
+    - Computer Vision & Natural Language Processing
+    - AI Model Optimization & Deployment
+    - Reinforcement Learning
+    - Generative AI & LLMs
 
-| Area | Focus |
-| --- | --- |
-| 🤖 Artificial Intelligence | Deep Learning, Computer Vision, NLP, Reinforcement Learning, Generative AI |
-| 📈 Machine Learning | Model evaluation, tuning, pipelines, feature engineering, responsible AI |
-| 💻 Development | MERN stack, TypeScript, Python automation, secure full-stack coding, API security |
-| ☁️ Infrastructure | AWS security, Docker, CI/CD, Linux administration, cloud-native security |
+  Machine Learning:
+    - Supervised & Unsupervised Learning
+    - Model Evaluation & Tuning
+    - ML Pipelines & Automation
+    - Data Preprocessing & Feature Engineering
+    - Responsible & Ethical AI Practices
 
-### 🔮 Certification Roadmap
+  Development:
+    - MERN Stack Projects
+    - TypeScript Best Practices
+    - Python for AI/ML & Automation
+    - Secure Full-Stack Coding
+    - API Security & DevSecOps
 
-| Priority Goals | Future Goals |
-| --- | --- |
-| ☐ TensorFlow Developer Certificate | ☐ AWS Certified Machine Learning - Specialty |
-| ☐ AWS Certified Cloud Practitioner | ☐ Google Professional Data Engineer |
-| ☐ Microsoft Azure AI Engineer Associate | ☐ OSCP or security certification |
-| ☐ Certified Data Scientist | ☐ Top AI/ML research internship |
-| ☐ UI/UX Design Certification |  |
+  Infrastructure:
+    - AWS Cloud Security Basics
+    - Docker & CI/CD Integration
+    - Linux System Administration
+    - Cloud-Native Application Security
 
-### 🏆 Target Achievements
+🔮 CERTIFICATION ROADMAP 2025:
+  Priority:
+    - [ ] TensorFlow Developer Certificate
+    - [ ] AWS Certified Cloud Practitioner
+    - [ ] Microsoft Azure AI Engineer Associate
+    - [ ] Certified Data Scientist
+    - [ ] UI/UX Design Certification
 
-- ☐ Publish 5+ AI/ML projects
-- ☐ Reach 1K+ followers on AI/ML content
-- ☐ Speak at AI/ML meetups
-- ☐ Publish technical blogs and tutorials
-- ☐ Land an AI internship at a top tech company
+  Future Goals:
+    - [ ] AWS Certified Machine Learning - Specialty
+    - [ ] Google Professional Data Engineer
+    - [ ] OSCP or Security Certification
+    - [ ] Top AI/ML Research Internship
+
+🏆 TARGET ACHIEVEMENTS:
+    - [ ] 5+ AI/ML Projects Published
+    - [ ] 1K+ Followers on AI/ML Content
+    - [ ] Speaking at AI/ML Meetups
+    - [ ] Published Blogs & Tutorials
+    - [ ] Land AI Internship at Top Tech Company
+```
 
 </div>
 
@@ -237,36 +254,36 @@ Goals:
 ## 🏆 Achievement Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sapthagirirajan&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub achievement trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sapthagirirajan&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
 <div align="center">
 
 ### 🎖️ **Current Level Badges**
 
-| Level | Badge |
-| --- | --- |
-| 🎓 Student | [![Student level](https://img.shields.io/badge/Student-3rd%20Year%20B.Tech%20CSE-blue?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| 🤖 AI Enthusiast | [![AI enthusiast level](https://img.shields.io/badge/AI%20Enthusiast-Machine%20Learning-critical?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| ☁️ DevOps | [![DevOps learner level](https://img.shields.io/badge/DevOps-Learner-yellow?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| 🌐 Full Stack | [![Full Stack developer level](https://img.shields.io/badge/Full%20Stack-MERN%20Developer-success?style=for-the-badge)](https://github.com/sapthagirirajan) |
+<p>
+  <img src="https://img.shields.io/badge/Student-3rd%20Year%20B.Tech%20CSE-blue?style=for-the-badge&logo=graduationcap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-Machine%20Learning-critical?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Learner-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20Developer-success?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
 ### 🛠️ **Technical Specializations**
 
 <p>
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-informational?style=for-the-badge&logo=linux&logoColor=white" alt="Operating systems" />
-  <img src="https://img.shields.io/badge/Shell-Bash%20%7C%20PowerShell-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell tools" />
-  <img src="https://img.shields.io/badge/Containers-Docker%20Basics-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker basics" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-informational?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash%20%7C%20PowerShell-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-Docker%20Basics-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-green?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud & Development**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Learning%20Cloud%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS cloud basics" />
-  <img src="https://img.shields.io/badge/GitHub-Actions%20Basics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Actions basics" />
-  <img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI development" />
-  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript full stack" />
+  <img src="https://img.shields.io/badge/AWS-Learning%20Cloud%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Actions%20Basics-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 </div>
@@ -282,24 +299,32 @@ Goals:
 ### 📫 **Get In Touch**
 
 <a href="mailto:sapthagirirajan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email via Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sapthagirirajan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/sapthagirirajan">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter profile" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://dev.to/sapthagirirajan">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to profile" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
 ### 🔗 **Development Platforms**
 
-1. [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sapthagirirajan)
-2. [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/sapthagirirajan)
-3. [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sapthagirirajan)
-4. [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sapthagirirajan)
+<a href="https://github.com/sapthagirirajan">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/sapthagirirajan">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://medium.com/@sapthagirirajan">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://hashnode.com/@sapthagirirajan">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 
 ### 🎯 **Open to Collaborate On**
 
@@ -321,12 +346,12 @@ Interested in:
 
 <div align="center">
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20lies%20at%20the%20intersection%20of%20code,%20intelligence,%20and%20creativity.%20Let%27s%20build%20the%20future%20with%20AI!" alt="Profile quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20lies%20at%20the%20intersection%20of%20code,%20intelligence,%20and%20creativity.%20Let%27s%20build%20the%20future%20with%20AI!" />
   </p>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer" alt="Footer decoration" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer" />
 </div>
 
 <div align="center">

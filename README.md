@@ -1,11 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════
-     Sapthagiri Rajan Rajamanickam · "NEURAL NEON" profile v5
-     Banners & cards are self-hosted SVGs in /assets (no Vercel)
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     Sapthagiri Rajan Rajamanickam · "NEURAL NEON" · single-file edition
+     No extra files, no workflows, no Vercel services needed.
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Sapthagiri Rajan R — AI/ML Engineer · GenAI & LLMs · Full-Stack · Cloud & DevSecOps" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+```text
+███████╗ █████╗ ██████╗ ████████╗██╗  ██╗ █████╗  ██████╗ ██╗██████╗ ██╗
+██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔════╝ ██║██╔══██╗██║
+███████╗███████║██████╔╝   ██║   ███████║███████║██║  ███╗██║██████╔╝██║
+╚════██║██╔══██║██╔═══╝    ██║   ██╔══██║██╔══██║██║   ██║██║██╔══██╗██║
+███████║██║  ██║██║        ██║   ██║  ██║██║  ██║╚██████╔╝██║██║  ██║██║
+╚══════╝╚═╝  ╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝
+       ██████╗  █████╗      ██╗ █████╗ ███╗   ██╗        ██████╗
+       ██╔══██╗██╔══██╗     ██║██╔══██╗████╗  ██║        ██╔══██╗
+       ██████╔╝███████║     ██║███████║██╔██╗ ██║        ██████╔╝
+       ██╔══██╗██╔══██║██   ██║██╔══██║██║╚██╗██║        ██╔══██╗
+       ██║  ██║██║  ██║╚█████╔╝██║  ██║██║ ╚████║        ██║  ██║
+       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        ╚═╝  ╚═╝
+        ◆ AI/ML ENGINEER ◆ GENAI & LLMs ◆ FULL-STACK ◆ DEVSECOPS ◆
+```
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="wave" />
 <b>&nbsp;Hi there, I'm Sapthagiri Rajan Rajamanickam&nbsp;</b>
@@ -21,7 +37,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## ⚡ `./initialize.sh`
 
@@ -65,7 +81,7 @@
 | A full-stack product, idea → launch | Evaluation & responsible AI | Open-source contributions |
 | Technical projects, demos & notes | DSA · SQL · System Design | A strong AI/ML or full-stack role |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🛠️ Neural Toolkit
 
@@ -137,16 +153,77 @@
 - Security        ▸ Burp Suite · Wireshark · OWASP ZAP · Secure Coding
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🚀 Project Constellation
 
 <div align="center">
 
-<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/01.svg" width="49%" alt="01 · AI Project Suite — Python, PyTorch, OpenCV, React" /></a>
-<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/02.svg" width="49%" alt="02 · MERN AI Dashboard — MongoDB, Express, React, Node.js" /></a>
-<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/03.svg" width="49%" alt="03 · RAG Knowledge Assistant — Python, FastAPI, LLMs, Vector DB" /></a>
-<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/04.svg" width="49%" alt="04 · ML Model Evaluation Tool — Python, scikit-learn, Streamlit" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub><code>01 //</code> &nbsp; 🟢 ACTIVE</sub>
+
+### 🧪 AI Project Suite
+Applied ML & computer-vision experiments turned into practical applications.
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+
+<a href="https://github.com/sapthagirirajan"><b>view repo →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<sub><code>02 //</code> &nbsp; 🟢 ACTIVE</sub>
+
+### 📊 MERN AI Dashboard
+A real-time dashboard for AI insights and visual analytics.
+
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+<a href="https://github.com/sapthagirirajan"><b>view repo →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><code>03 //</code> &nbsp; 🟢 ACTIVE</sub>
+
+### 🧠 RAG Knowledge Assistant
+Chat with your documents using retrieval-augmented generation & vector search.
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/-LLMs-b16cff?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/-Vector%20DB-004e92?style=flat-square&logo=databricks&logoColor=white" alt="Vector DB" />
+
+<a href="https://github.com/sapthagirirajan"><b>view repo →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<sub><code>04 //</code> &nbsp; 🟢 ACTIVE</sub>
+
+### 📐 ML Model Evaluation Tool
+Compare, benchmark and visualise model performance side by side.
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+<a href="https://github.com/sapthagirirajan"><b>view repo →</b></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -157,7 +234,7 @@
 - 🌐 **Web Development** — MERN stack & modern full-stack apps
 - 🌍 **AI for Social Good** — applying AI to impactful problems
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 📚 Training Log — Currently Learning
 
@@ -218,28 +295,21 @@ PHASE 03 ▸ PUBLISH   ██████░░░░░░░░░░░░░
 PHASE 04 ▸ LAUNCH    ████░░░░░░░░░░░░░░░░  20%   Internship / industry project · AI/ML or full-stack role
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 📊 Evaluation Metrics
 
 <div align="center">
 
-<!-- Generated daily into this repo by .github/workflows/profile.yml -->
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile details & contributions" />
+<img src="https://streak-stats.demolab.com/?user=sapthagirirajan&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="75%" alt="GitHub streak" />
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sapthagirirajan&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="70%" alt="GitHub streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapthagirirajan/sapthagirirajan/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/sapthagirirajan/sapthagirirajan/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake" />
-</picture>
+<img src="https://ghchart.rshah.org/00b8d4/sapthagirirajan" width="95%" alt="Contribution chart" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 ## 🌐 Connect & Collaborate
 
@@ -262,6 +332,12 @@ PHASE 04 ▸ LAUNCH    ████░░░░░░░░░░░░░░░
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Innovation lies at the intersection of code, intelligence, and creativity." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=B16CFF&center=true&vCenter=true&width=760&lines=%22Innovation+lies+at+the+intersection+of+code%2C+intelligence+%26+creativity.%22;while+(alive)+%7B+learn()%3B+build()%3B+ship()%3B+repeat()%3B+%7D" alt="Closing quote" />
+
+```text
+──────────────────────────── ◆  END OF TRANSMISSION  ◆ ────────────────────────────
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 </div>

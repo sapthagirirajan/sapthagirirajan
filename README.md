@@ -90,14 +90,7 @@
 <td align="center">
 
 **🤖 AI / ML Core**<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch, TensorFlow" /><br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" alt="YOLO" />
+<img src="./assets/ai-ml-icons.svg" alt="PyTorch, TensorFlow, Hugging Face, Keras, scikit-learn, OpenCV, Pandas, NumPy, YOLO" />
 
 </td>
 <td align="center">

@@ -90,7 +90,7 @@
 <td align="center">
 
 **🤖 AI / ML Core**<br/><br/>
-<img src="./assets/ai-ml-icons.svg" alt="PyTorch, TensorFlow, Hugging Face, Keras, scikit-learn, OpenCV, Pandas, NumPy, YOLO" />
+<img src="./assets/ai.svg" alt="PyTorch, TensorFlow, Hugging Face, Keras, scikit-learn, OpenCV, Pandas, NumPy, YOLO" />
 
 </td>
 <td align="center">

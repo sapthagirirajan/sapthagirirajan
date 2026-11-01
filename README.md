@@ -1,334 +1,267 @@
-## Hi there 👋 Sapthagiri Rajan Rajmanickam
-<!-- GitHub Profile README for Sapthagiri Rajan Rajamanickam - Advanced Edition -->
+<!-- ═══════════════════════════════════════════════════════════
+     Sapthagiri Rajan Rajamanickam · "NEURAL NEON" profile v5
+     Banners & cards are self-hosted SVGs in /assets (no Vercel)
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=220&section=header&text=Sapthagiri%20Rajan%20R&fontSize=70&fontColor=fff&animation=twinkling" />
+
+<img src="./assets/header.svg" width="100%" alt="Sapthagiri Rajan R — AI/ML Engineer · GenAI & LLMs · Full-Stack · Cloud & DevSecOps" />
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="wave" />
+<b>&nbsp;Hi there, I'm Sapthagiri Rajan Rajamanickam&nbsp;</b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="wave" />
+
+<a href="https://github.com/sapthagirirajan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=00F2FE&center=true&vCenter=true&width=780&height=45&lines=%E2%96%B8+AI+Enthusiast+%7C+Machine+Learning+%7C+Python+Developer;%E2%96%B8+Building+GenAI+%26+LLM+Applications;%E2%96%B8+RAG+%7C+AI+Agents+%7C+MCP;%E2%96%B8+Cloud+%7C+Docker+%7C+DevSecOps;%E2%96%B8+Shipping+Smart+%26+Scalable+Products;%E2%96%B8+4th+Year+B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sapthagirirajan&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/sapthagirirajan?label=FOLLOWERS&style=for-the-badge&color=004e92&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00c853?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to work" />
+
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  🤖 AI Enthusiast | Machine Learning | Python Developer | Web Development |Full-Stack Developer | UI/UX Designer | Turning Ideas into AI-Powered Solutions
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🤖+AI+Enthusiast+%7C+Machine+Learning+%7C+Python+Developer;🌐+Web+Development+%7C+UI%2FUX+Designer+%7C+Creative+Coder;💡+Turning+Ideas+into+AI-Powered+Solutions;🚀+Building+Smart+%26+Scalable+Applications;🎓+3rd+Year+B.Tech+CSE+Student;💻+Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
-</div>
+## ⚡ `./initialize.sh`
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sapthagirirajan&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sapthagirirajan?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sapthagirirajan?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
-</div>
+```console
+┌──(sapthagiri㉿neural-core)-[~/profile]
+└─$ ./initialize.sh --verbose
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🧠 Student Profile & Learning Journey
-
-<img align="right" alt="Digital Data Streams" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96bGtxYnZwb203YWY1eWN4Y2FlYTlsY2tpYmdzenZmZzdoZGQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" />
-
-### 🎯 **About Me**
-
-- 🎓 **3rd Year B.Tech CSE** (Artificial Intelligence & Machine Learning Specialization)
-- ☁️ Completed internships with NIT Calicut and EduSkills
-- 🤖 **AI Enthusiast** - Machine Learning, Deep Learning, Computer Vision
-- 🐍 **Python Developer** - Automation, Data Science, Backend APIs
-- 🌐 **Full-Stack Developer** - MERN Stack, TypeScript, React, Node.js
-- 🖌️ **UI/UX Designer** - Figma, Photoshop, Adobe Creative Suite
-- ☁️ **DevSecOps Learner** - Secure SDLC & Application Security
-- 🚀 **Turning Ideas into AI-Powered Solutions**
-
-### 💭 **Philosophy**
-
-> _"Innovation lies at the intersection of code, intelligence, and creativity. I believe in building solutions that not only solve problems but also inspire the next wave of AI-driven transformation."_
-
-### 🎯 **2025 Mission**
-
-```yaml
-Goals:
-  -  🚀 Build & Deploy Production-Ready AI Apps
-  -  🤖 Win a Machine Learning Hackathon
-  -  🏗️ Launch a Full-Stack SaaS Product
-  -  📚 Publish Technical AI & ML Blogs
-  -  🎬 Create a YouTube Series on "AI for Developers"
-  -  🎤 Present at AI/ML Conferences & Meetups
+[ OK ] Loading checkpoint ........... sapthagiri-rajan-r v5.0
+[ OK ] Architecture ................. AI/ML Engineer × Full-Stack Dev × Cloud & DevSecOps
+[ OK ] Education .................... 4th-year B.Tech CSE (AI & ML)
+[ OK ] Core modules ................. GenAI · LLMs · RAG · AI Agents · MCP
+[ OK ] Product layer ................ React · Node.js · FastAPI · REST APIs
+[ OK ] Infra layer .................. Docker · CI/CD · AWS · Linux
+[ OK ] Shield layer ................. Burp Suite · Wireshark · OWASP ZAP
+[WARN] Coffee level ................. critical — refill recommended ☕
+[ OK ] Status ....................... READY TO BUILD 🚀
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm96bGtxYnZwb203YWY1eWN4Y2FlYTlsY2tpYmdzenZmZzdoZGQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="Digital data streams" />
 
-## 🛠️ Tech Stack & Skills
+### 🧠 About Me
+
+- 🎓 4th-year **B.Tech CSE (AI & ML)** student
+- 🤖 Building with **Generative AI, LLMs & RAG**
+- 💻 Full-stack developer focused on **useful, polished products**
+- ☁️ Deploying with **Docker, CI/CD & cloud** — security baked in
+- 🔐 Hands-on with **secure coding & DevSecOps**
+
+### 💭 Philosophy
+
+> **"Innovation lies at the intersection of code, intelligence, and creativity."**
+> I build solutions that don't just solve problems — they inspire the next wave of AI-driven transformation.
+
+<br clear="right"/>
+
+### 🎯 2027 Mission
+
+| 🚀 Ship | 🧠 Master | 🌱 Grow |
+|:--|:--|:--|
+| Production-ready GenAI apps | Reliable RAG systems & AI agents | Cloud, Docker, CI/CD & deployment |
+| A full-stack product, idea → launch | Evaluation & responsible AI | Open-source contributions |
+| Technical projects, demos & notes | DSA · SQL · System Design | A strong AI/ML or full-stack role |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🛠️ Neural Toolkit
 
 <div align="center">
 
-### 💻 **Programming Languages & Frameworks**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,django,flask,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=keras,pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="32" height="32" title="Hugging Face Transformers" />
-</p>
+**💻 Languages**<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" alt="Python, Java, C++, C, JavaScript, TypeScript" />
 
-### 🎨 **Frontend & Design Technologies**
+</td>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma,photoshop" />
-  <img src="https://skillicons.dev/icons?i=adobe" />
-</p>
+**🌐 Frameworks**<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask&theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, Django, Flask" />
 
-### 🗄️ **Backend & Database Systems**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
+**🤖 AI / ML Core**<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch, TensorFlow" /><br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" alt="YOLO" />
 
-### ☁️ **AI/ML Focused Learning**
+</td>
+<td align="center">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" width="32" height="32" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" width="32" height="32" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencv.svg" width="32" height="32" title="OpenCV" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/keras.svg" width="32" height="32" title="Keras" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="32" height="32" title="Hugging Face Transformers" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
-</p>
+**☁️ Cloud & DevOps**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,nginx&theme=dark" alt="Docker, AWS, GitHub Actions, Vercel, Nginx" />
 
-### 🛡️ **Security & Development Tools**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman,vercel" />
-</p>
+**🗄️ Data & Frontend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Supabase" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="HTML, CSS, Tailwind, Bootstrap" />
+
+</td>
+<td align="center">
+
+**🛡️ Security & Tooling**<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,postman,vscode&theme=dark" alt="Linux, Bash, Git, GitHub, Postman, VS Code" /><br/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚙️ AI, ML, Security & Automation Arsenal
-
-<div align="center">
-
-```ascii
-🤖 AI/ML & AUTOMATION TOOLKIT
-┌──────────────────────────────────────────────────────────────────────┐
-│  🧠 TensorFlow/PyTorch 👁️  OpenCV/YOLO    🤖 Scikit-learn/Pandas   │
-│  📸 Computer Vision    🎯 ML Pipelines    ⚡ Security Automation   │
-│  🔧 Python Automation  📊 Data Analysis   🚀 Model Development     │
-└──────────────────────────────────────────────────────────────────────┘
-
-🔒 PENETRATION TESTING & SECURITY TOOLS
-┌──────────────────────────────────────────────────────────────────────┐
-│  🕷️  Burp Suite Pro    🦈 Wireshark      🗺️  Nmap/Masscan         │
-│  💀 Metasploit        🛡️  OWASP ZAP     🐧 Kali Linux/Parrot      │
-│  🔍 Nessus/OpenVAS   🎯 Gobuster       📡 Aircrack-ng/Hashcat    │
-│  🐍 Custom Python    🔐 John the Ripper 🌐 Nikto/Dirbuster       │
-│  🖥️  Social Engineer 🔥 Hydra/Medusa   ⚡ Custom Exploit Scripts │
-└──────────────────────────────────────────────────────────────────────┘
+```diff
++ Generative AI   ▸ LLMs · RAG · Vector Search · AI Agents · MCP · Prompt Engineering
++ AI / ML         ▸ PyTorch · TensorFlow · Scikit-learn · Pandas · OpenCV · YOLO
++ Development     ▸ Python · Java · React · Node.js · FastAPI · REST APIs
+! Cloud & DevOps  ▸ Docker · GitHub Actions · AWS · Linux · Nginx
+- Security        ▸ Burp Suite · Wireshark · OWASP ZAP · Secure Coding
 ```
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics & Performance Metrics
-
-<div align="center">
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://github-readme-stats.vercel.app/api?username=sapthagirirajan&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" width="49%" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://streak-stats.demolab.com?user=sapthagirirajan&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" alt="GitHub contribution streak" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>🧮 Most Used Programming Languages</h3>
-  <a href="https://github.com/sapthagirirajan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapthagirirajan&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" width="60%" alt="Most used programming languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapthagirirajan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00FFFF" width="100%" alt="Contribution activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapthagirirajan&theme=radical" width="100%" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sapthagirirajan&theme=radical" width="32%" alt="Repositories by programming language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sapthagirirajan&theme=radical" width="32%" alt="Most committed programming language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapthagirirajan&theme=radical" width="32%" alt="GitHub statistics summary" />
-</div>
-
-## 🚀 Projects & Innovation Portfolio
+## 🚀 Project Constellation
 
 <div align="center">
 
-### 🏆 **Current & Upcoming Projects**
-
-| 🎯 **Project**                    | 🛠️ **Tech Stack**                     | 📝 **Description**                                        | 🚀 **Status**       |
-| --------------------------------- | ------------------------------------- | --------------------------------------------------------- | ------------------- |
-| 🤖 **AI Project Suite**           | Python, TensorFlow, OpenCV, React     | End-to-end AI/ML projects for real-world applications     | 🔨 In Development   |
-| 🌐 **MERN AI Dashboard**          | MongoDB, Express, React, Node.js      | Real-time AI analytics & visualization dashboard          | 📋 Planned          |
-| 🖌️ **Smart UI/UX Generator**      | React, TypeScript, Figma, Python      | AI-powered UI/UX prototyping and design assistant         | 🔨 In Development   |
-| 🔍 **ML Model Evaluation Tool**   | Python, Scikit-learn, Streamlit       | Automate, compare, and visualize ML model performance     | ✅ Live Demo        |
-| 🎥 **AI Learning Series**         | YouTube, Python, JavaScript           | Educational content for aspiring AI/ML developers         | 📋 Content Planning |
-
-### 🌟 **Learning & Contributing**
-
-- **Open Source AI/ML Projects** - Contributing to Python and JS-based AI tools
-- **Python Security Tools** - Building custom automation scripts
-- **Web Development** - MERN stack and modern UI/UX design
-- **AI for Social Good** - Applying AI to solve impactful problems
+<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/01.svg" width="49%" alt="01 · AI Project Suite — Python, PyTorch, OpenCV, React" /></a>
+<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/02.svg" width="49%" alt="02 · MERN AI Dashboard — MongoDB, Express, React, Node.js" /></a>
+<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/03.svg" width="49%" alt="03 · RAG Knowledge Assistant — Python, FastAPI, LLMs, Vector DB" /></a>
+<a href="https://github.com/sapthagirirajan"><img src="./assets/projects/04.svg" width="49%" alt="04 · ML Model Evaluation Tool — Python, scikit-learn, Streamlit" /></a>
 
 </div>
 
----
+### 🌟 Learning & Contributing
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🧩 **Open Source AI/ML** — contributing to Python & JS-based AI tools
+- 🐍 **Python Security Tools** — custom automation scripts
+- 🌐 **Web Development** — MERN stack & modern full-stack apps
+- 🌍 **AI for Social Good** — applying AI to impactful problems
 
-## 📚 Learning Trajectory & Certification Goals
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📚 Training Log — Currently Learning
+
+<details>
+<summary><b>🤖 Artificial Intelligence</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br/>
+
+- Deep Learning & Neural Networks
+- Computer Vision & Natural Language Processing
+- Generative AI, LLM applications & prompt design
+- Retrieval-Augmented Generation (RAG) & vector search
+- AI agents, tool calling & Model Context Protocol (MCP)
+- Reinforcement Learning
+- Model optimization, deployment, evaluation & observability
+
+</details>
+
+<details>
+<summary><b>📈 Machine Learning</b></summary>
+<br/>
+
+- Supervised & Unsupervised Learning
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Tuning
+- ML Pipelines & Automation
+- Responsible & Ethical AI Practices
+
+</details>
+
+<details>
+<summary><b>💻 Development</b></summary>
+<br/>
+
+- MERN Stack Projects
+- Next.js, TypeScript & modern full-stack architecture
+- Python for AI/ML & Automation
+- Secure Full-Stack Coding, API Security & DevSecOps
+
+</details>
+
+<details>
+<summary><b>☁️ Infrastructure</b></summary>
+<br/>
+
+- Docker & CI/CD Integration
+- AWS Cloud Security Basics
+- Linux System Administration
+- Cloud-Native Application Security
+
+</details>
+
+### 🔮 Roadmap 2027
+
+```text
+PHASE 01 ▸ BUILD     ██████████░░░░░░░░░░  50%   End-to-end GenAI/RAG project · production-style full-stack app
+PHASE 02 ▸ SHARPEN   ████████░░░░░░░░░░░░  40%   AWS/Azure fundamentals · DSA · SQL · System Design
+PHASE 03 ▸ PUBLISH   ██████░░░░░░░░░░░░░░  30%   5+ AI/ML projects · demos · blogs & tutorials
+PHASE 04 ▸ LAUNCH    ████░░░░░░░░░░░░░░░░  20%   Internship / industry project · AI/ML or full-stack role
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📊 Evaluation Metrics
 
 <div align="center">
 
-### 🎯 Currently Learning
+<!-- Generated daily into this repo by .github/workflows/profile.yml -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile details & contributions" />
 
-| Area | Focus |
-| --- | --- |
-| 🤖 Artificial Intelligence | Deep Learning, Computer Vision, NLP, Reinforcement Learning, Generative AI |
-| 📈 Machine Learning | Model evaluation, tuning, pipelines, feature engineering, responsible AI |
-| 💻 Development | MERN stack, TypeScript, Python automation, secure full-stack coding, API security |
-| ☁️ Infrastructure | AWS security, Docker, CI/CD, Linux administration, cloud-native security |
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
 
-### 🔮 Certification Roadmap
+<img src="https://streak-stats.demolab.com/?user=sapthagirirajan&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="70%" alt="GitHub streak" />
 
-| Priority Goals | Future Goals |
-| --- | --- |
-| ☐ TensorFlow Developer Certificate | ☐ AWS Certified Machine Learning - Specialty |
-| ☐ AWS Certified Cloud Practitioner | ☐ Google Professional Data Engineer |
-| ☐ Microsoft Azure AI Engineer Associate | ☐ OSCP or security certification |
-| ☐ Certified Data Scientist | ☐ Top AI/ML research internship |
-| ☐ UI/UX Design Certification |  |
-
-### 🏆 Target Achievements
-
-- ☐ Publish 5+ AI/ML projects
-- ☐ Reach 1K+ followers on AI/ML content
-- ☐ Speak at AI/ML meetups
-- ☐ Publish technical blogs and tutorials
-- ☐ Land an AI internship at a top tech company
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapthagirirajan/sapthagirirajan/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sapthagirirajan/sapthagirirajan/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake" />
+</picture>
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievement Dashboard
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sapthagirirajan&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub achievement trophies" />
-</div>
-
-<div align="center">
-
-### 🎖️ **Current Level Badges**
-
-| Level | Badge |
-| --- | --- |
-| 🎓 Student | [![Student level](https://img.shields.io/badge/Student-3rd%20Year%20B.Tech%20CSE-blue?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| 🤖 AI Enthusiast | [![AI enthusiast level](https://img.shields.io/badge/AI%20Enthusiast-Machine%20Learning-critical?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| ☁️ DevOps | [![DevOps learner level](https://img.shields.io/badge/DevOps-Learner-yellow?style=for-the-badge)](https://github.com/sapthagirirajan) |
-| 🌐 Full Stack | [![Full Stack developer level](https://img.shields.io/badge/Full%20Stack-MERN%20Developer-success?style=for-the-badge)](https://github.com/sapthagirirajan) |
-
-### 🛠️ **Technical Specializations**
-
-<p>
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-informational?style=for-the-badge&logo=linux&logoColor=white" alt="Operating systems" />
-  <img src="https://img.shields.io/badge/Shell-Bash%20%7C%20PowerShell-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell tools" />
-  <img src="https://img.shields.io/badge/Containers-Docker%20Basics-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker basics" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="Databases" />
-</p>
-
-### ☁️ **Cloud & Development**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Learning%20Cloud%20Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS cloud basics" />
-  <img src="https://img.shields.io/badge/GitHub-Actions%20Basics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Actions basics" />
-  <img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI development" />
-  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript full stack" />
-</p>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🌐 Connect & Collaborate
 
 <div align="center">
 
-### 📫 **Get In Touch**
+<a href="mailto:sapthagirirajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/sapthagirirajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/sapthagirirajan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://dev.to/sapthagirirajan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+<a href="https://github.com/sapthagirirajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<a href="mailto:sapthagirirajan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email via Gmail" />
-</a>
-<a href="https://linkedin.com/in/sapthagirirajan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="https://twitter.com/sapthagirirajan">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter profile" />
-</a>
-<a href="https://dev.to/sapthagirirajan">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to profile" />
-</a>
+<br/><br/>
 
-### 🔗 **Development Platforms**
+| 🎯 Open to collaborate on | |
+|:--|:--|
+| 🤖 AI & ML (Deep Learning · NLP · CV) | 🌐 Full-Stack Web (MERN · Python) |
+| 🧠 GenAI · RAG · AI Agents | ☁️ Cloud Security & DevSecOps |
+| 📚 Technical Writing | 🚀 AI for Social Good |
+| 💼 AI/ML/Full-Stack Internships | 🤝 Study Groups & Communities |
 
-1. [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sapthagirirajan)
-2. [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/sapthagirirajan)
-3. [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sapthagirirajan)
-4. [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sapthagirirajan)
+<br/>
 
-### 🎯 **Open to Collaborate On**
+<img src="./assets/footer.svg" width="100%" alt="Innovation lies at the intersection of code, intelligence, and creativity." />
 
-```yaml
-Interested in:
-  - 🤖 AI & ML Projects (Deep Learning, NLP, Computer Vision)
-  - 🌐 Full-Stack Web Development (MERN, Python)
-  - 🖌️ UI/UX Design & Prototyping
-  - ☁️ Cloud Security & DevSecOps
-  - 📚 Technical Writing & Knowledge Sharing
-  - 🚀 AI for Social Good
-  - 💼 Internship Opportunities in AI/ML/Full Stack
-  - 🤝 Study Groups & Learning Communities
-```
-
-</div>
-
----
-
-<div align="center">
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20lies%20at%20the%20intersection%20of%20code,%20intelligence,%20and%20creativity.%20Let%27s%20build%20the%20future%20with%20AI!" alt="Profile quote" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,46,59&height=120&section=footer" alt="Footer decoration" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </div>
